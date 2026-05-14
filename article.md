@@ -44,7 +44,7 @@ That is why the foundation matters. Utilities that build clean data pipelines wi
 
 Multimodal models are here. They will continue to improve. The question is not whether the technology will be ready. The question is whether your data will be.
 
-### **Not One Model, But Many**
+### Not One Model, But Many
 The excitement around artificial intelligence often centers on one model. A single large system that can do everything. It can write. It can summarize. It can answer questions. It can generate images or solve equations. This model is presented as a general-purpose solution. The assumption is that the best AI is the biggest AI.
 
 This view is misleading. It does not reflect how intelligence works in practice. It does not reflect how infrastructure functions. And it does not reflect how power and utility systems operate in the real world.
