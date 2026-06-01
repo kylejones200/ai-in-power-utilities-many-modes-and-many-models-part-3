@@ -11,14 +11,7 @@ Multimodal models process different forms of data in a unified system. Text, ima
 
 This shift opens new ground for utilities. Power systems generate data across every modality. Line inspections produce photographs and videos. Substation sensors produce time-stamped numerical logs. Fault records contain structured data and natural language notes. Drone flights generate aerial imagery. Customer calls and emails produce unstructured text. These are not theoretical sources. They are part of daily operations.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
